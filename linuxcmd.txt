@@ -1,0 +1,17 @@
+t-rhui.repo
+    6  cd ..
+    7  cd..
+    8  cd ..
+    9  yum install https -y
+   10*
+   11  rpm -qa! grep httpd
+   12  rpm -qa| grep httpd
+   13  yum install git -y
+   14  cd /opt/
+   15  mkdir -p/opt/gitdemo
+   16  mkdir -p /opt/gitdemo
+   17  cd gitdemo
+   18  git init
+   19  vi linuxcmd.txt
+   20  history
+
