@@ -1,3 +1,12 @@
+ 24  git status
+   25  git add linuxcmd.txt
+   26  git status
+   27  git commit linuxcmd.txt
+   28  git commit -m"my first commit"
+   29  git status
+   30  git command
+   31  git status
+   32  history
 t-rhui.repo
     6  cd ..
     7  cd..
